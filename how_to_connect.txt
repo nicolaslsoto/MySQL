@@ -1,0 +1,8 @@
+Connect to MySQL though terminal, Note: <database> not needed:
+
+> mysql -h 127.0.0.1 -P 3306 -u root -p <database>
+
+
+Run an SQL file (to execute queries):
+
+mysql> source <filename>
